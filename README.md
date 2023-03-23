@@ -1,8 +1,8 @@
 <img  src="https://go-apod.herokuapp.com/image" alt="Astronomy Picture of the Day" width="300"/>
 
 # Willkommen auf meinem Github Profil 
-<img src="./media\business-3d-happy-robot-assistant-waving-hello.png" width="100" />
-<img src="./media/flame-sign-in.gif" width="100" />
+<img src="./media\business-3d-happy-robot-assistant-waving-hello.png" width="200" />
+<img src="./media/flame-sign-in.gif" width="200" />
 
 
 # Wer bin ich?
@@ -11,7 +11,7 @@
 - Ich bin derzeit Tätig für die [DNS DNS Datentechnik, Netzwerk und Systemhaus GmbH](https://systempartner.de)
 - Das ist mein privater Github Account
 
-<img src="./media/flame-no-connection.gif" height="100" />
+<img src="./media/flame-no-connection.gif" height="200" />
 
 
 ## Ich beschätige mich mit...
@@ -37,18 +37,21 @@
 - Linux Server <img src="./media/server-gruppe.svg" width="20" />
 - VS Code <img src="./media/icons8-visual-studio-code-2019.svg" width="20" />
 
+<img src="./media/flame-uploading.gif" height="200" />
+
 <details>
 <summary>&#x1f4c8; GitHub Stats</summary>
 
 ![DNS-HRA code::stats stats](https://codestats-readme.avior.me/api?username=DNS-HRA&theme=nightowl)
+</br>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DNS-HRA&count_private=true&theme=tokyonight&showicons=true)
+</br>
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DNS-HRA&langs_count=5&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=just5ky&theme=tokyonight&hide_border=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&)
+</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DNS-HRA&theme=tokyonight&hide_border=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&)
 </details>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="512px"/>
-
-<img src="./media/flame-uploading.gif" height="100" />
 
 > __Note__  
 <img src="./media/icons8-icons8.svg" width="30"><a href="https://icons8.de/icons"></a></img>
