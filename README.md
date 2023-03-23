@@ -1,8 +1,8 @@
 <img  src="https://go-apod.herokuapp.com/image" alt="Astronomy Picture of the Day" width="300"/>
 
 # Willkommen auf meinem Github Profil 
-<img src="./media\business-3d-happy-robot-assistant-waving-hello.png" width="100" height="126" />
-<img src="./media/transistor-robot.gif" width="100" style="background-color:white;" />
+<img src="./media\business-3d-happy-robot-assistant-waving-hello.png" width="100" />
+<img src="./media/flame-sign-in.gif" width="100" />
 
 
 # Wer bin ich?
@@ -24,6 +24,10 @@
 - IT-Sicherheit <img src="./media/icons8-hacker.svg" width="20" />
 - Docker <img src="./media/icons8-docker.svg" width="20" />
 - Container <img src="./media/icons8-cloud.svg" width="20" />
+- Ansible <img src="./media/icons8-ansible.svg" width="20" />
+- Vagrant <img src="./media/icons8-vagrant.svg" width="20" />
+- Terraform <img src="./media/icons8-terraform.svg" width="20" />
+- Dokumentationen mit Markdown <img src="./media/icons8-markdown.svg" width="20" />
 
 ## Meine Technologien umfassen..
 - AWS <img src="./media/icons8-amazon-web-services.svg" width="20" />
@@ -46,25 +50,6 @@
 
 <img src="./media/flame-uploading.gif" height="100" />
 
+> __Note__  
 <img src="./media/icons8-icons8.svg" width="30"><a href="https://icons8.de/icons"></a></img>
 Die Icons sind von der tollen Website und Sponsor von Github Education [Icons8](https://icons8.com)
-
-<!--
-how do I set a image size?
-
->
-
-<!--
-**DNS-HRA/DNS-HRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
