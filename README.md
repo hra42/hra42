@@ -8,7 +8,6 @@
 # Wer bin ich?
 - Mein Name ist Henry Rausch
 - Ich arbeite als Fachinformatiker für Systemintegration in Magdeburg
-- Ich bin derzeit Tätig für die [DNS DNS Datentechnik, Netzwerk und Systemhaus GmbH](https://systempartner.de)
 - Das ist mein privater Github Account
 
 <img src="./media/flame-no-connection.gif" height="200" />
