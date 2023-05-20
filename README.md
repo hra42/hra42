@@ -1,5 +1,3 @@
-<img  src="https://go-apod.herokuapp.com/image" alt="Astronomy Picture of the Day" width="300"/>
-
 # Willkommen auf meinem Github Profil 
 <img src="./media\business-3d-happy-robot-assistant-waving-hello.png" width="200" />
 <img src="./media/flame-sign-in.gif" width="200" />
