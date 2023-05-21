@@ -10,14 +10,13 @@
 
 <img src="./media/flame-no-connection.gif" height="200" />
 
-
 ## Ich beschätige mich mit...
 - Golang <img src="./media/icons8-golang.svg" width="20" />
 - Python <img src="./media/icons8-python.gif" width="20" />
 - Rust <img src="./media/icons8-rust-programming-language.svg" width="20" />
 - PowerShell <img src="./media/icons8-powershell.svg" width="20" />
 - Bash <img src="./media/icons8-konsole.svg" width="20" />
-- Webseiten <img src="./media/icons8-internet.svg" width="20" />
+- Webseiten mit Hugo <img src="./media/icons8-internet.svg" width="20" />
 - IT-Sicherheit <img src="./media/icons8-hacker.svg" width="20" />
 - Docker <img src="./media/icons8-docker.svg" width="20" />
 - Container <img src="./media/icons8-cloud.svg" width="20" />
@@ -25,8 +24,6 @@
 - Vagrant <img src="./media/icons8-vagrant.svg" width="20" />
 - Terraform <img src="./media/icons8-terraform.svg" width="20" />
 - Dokumentationen mit Markdown <img src="./media/icons8-markdown.svg" width="20" />
-
-## Meine Technologien umfassen..
 - AWS <img src="./media/icons8-amazon-web-services.svg" width="20" />
 - Cloudflare <img src="./media/icons8-cloudflare.svg" width="20" />
 - Raspberry Pi <img src="./media/icons8-raspberry-pi.svg" width="20" />
