@@ -36,13 +36,13 @@
 <details>
 <summary>&#x1f4c8; GitHub Stats</summary>
 
-![DNS-HRA code::stats stats](https://codestats-readme.avior.me/api?username=DNS-HRA&theme=nightowl)
+![DNS-HRA code::stats stats](https://codestats-readme.avior.me/api?username=hra42&theme=nightowl)
 </br>
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DNS-HRA&count_private=true&theme=tokyonight&showicons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hra42&count_private=true&theme=tokyonight&showicons=true)
 </br>
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DNS-HRA&langs_count=5&theme=tokyonight)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hra42&langs_count=5&theme=tokyonight)
 </br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DNS-HRA&theme=tokyonight&hide_border=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hra42&theme=tokyonight&hide_border=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&)
 </details>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="512px"/>
