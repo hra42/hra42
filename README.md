@@ -4,7 +4,7 @@
 
 # Who am I?
 - My Name is Henry Rausch
-- I work as a Sys Admin in Magdeburg, Germany
+- I work as a System Engineer in Germany
 
 <img src="./media/flame-no-connection.gif" height="200" />
 
