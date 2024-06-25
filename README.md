@@ -40,6 +40,8 @@
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hra42&langs_count=5&theme=tokyonight)
 </br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hra42&theme=tokyonight&hide_border=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&)
+</br>
+[![roadmap.sh](https://roadmap.sh/card/tall/667a611bc19525099e4c96dc?variant=dark)](https://roadmap.sh)
 </details>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="512px"/>
