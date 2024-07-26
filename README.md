@@ -11,7 +11,7 @@
 ## I work on...
 - Golang <img src="./media/icons8-golang.svg" width="20" />
 - Python <img src="./media/icons8-python.gif" width="20" />
-- Rust <img src="./media/icons8-rust-programming-language.svg" width="20" />
+- Swift
 - PowerShell <img src="./media/icons8-powershell.svg" width="20" />
 - Bash <img src="./media/icons8-konsole.svg" width="20" />
 - Websites with Hugo <img src="./media/icons8-internet.svg" width="20" />
