@@ -4,29 +4,23 @@
 
 # Who am I?
 - My Name is Henry Rausch
-- I work as a System Engineer in Germany
+- I work as a IT-Operator in Germany
 
 <img src="./media/flame-no-connection.gif" height="200" />
 
 ## I work on...
 - Golang <img src="./media/icons8-golang.svg" width="20" />
 - Python <img src="./media/icons8-python.gif" width="20" />
-- Swift
-- PowerShell <img src="./media/icons8-powershell.svg" width="20" />
 - Bash <img src="./media/icons8-konsole.svg" width="20" />
-- Websites with Hugo <img src="./media/icons8-internet.svg" width="20" />
 - Docker <img src="./media/icons8-docker.svg" width="20" />
 - Container <img src="./media/icons8-cloud.svg" width="20" />
 - Ansible <img src="./media/icons8-ansible.svg" width="20" />
-- Vagrant <img src="./media/icons8-vagrant.svg" width="20" />
 - Terraform <img src="./media/icons8-terraform.svg" width="20" />
 - Markdown <img src="./media/icons8-markdown.svg" width="20" />
 - Cloud Providers (AWS, Azure, GCP, Hetzner Cloud) <img src="./media/icons8-amazon-web-services.svg" width="20" />
 - Cloudflare <img src="./media/icons8-cloudflare.svg" width="20" />
 - Raspberry Pi <img src="./media/icons8-raspberry-pi.svg" width="20" />
-- Windows <img src="./media/icons8-windows-11.svg" width="20" />
 - Linux Server <img src="./media/server-gruppe.svg" width="20" />
-- VS Code <img src="./media/icons8-visual-studio-code-2019.svg" width="20" />
 
 <img src="./media/flame-uploading.gif" height="200" />
 
