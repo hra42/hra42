@@ -2,7 +2,7 @@
 <img src="./media\business-3d-happy-robot-assistant-waving-hello.png" width="200" />
 <img src="./media/flame-sign-in.gif" width="200" />
 
-![Pieces Certified Developer](./media/pieces_certified_developer_badge.png)
+[![Pieces Certified Developer](https://api.badgr.io/public/badges/Ic7Lq5haTt-ea3pLJzYXFQ/image)](https://api.badgr.io/public/assertions/Ic7Lq5haTt-ea3pLJzYXFQ)
 
 # Who am I?
 - My Name is Henry Rausch
