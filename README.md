@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile
-<img src="./media\business-3d-happy-robot-assistant-waving-hello.png" width="200" />
-<img src="./media/flame-sign-in.gif" width="200" />
+<img src="./media\business-3d-happy-robot-assistant-waving-hello.png"/>
+<img src="./media/flame-sign-in.gif"/>
 
 [![Pieces Certified Developer](https://media.badgr.com/uploads/badges/badge-Ic7Lq5haTt-ea3pLJzYXFQ.png?versionId=bqGIzk8Q95mwWEeUaPGRZB2_mihpeoYT)](https://badgr.com/public/badges/Ic7Lq5haTt-ea3pLJzYXFQ)
 
@@ -8,7 +8,7 @@
 - My Name is Henry Rausch
 - I work as an IT-Operator in Germany
 
-<img src="./media/flame-no-connection.gif" height="200" />
+<img src="./media/flame-no-connection.gif"/>
 
 ## I work on...
 - Golang <img src="./media/icons8-golang.svg" width="20" />
@@ -23,7 +23,7 @@
 - Raspberry Pi <img src="./media/icons8-raspberry-pi.svg" width="20" />
 - Linux Server <img src="./media/server-gruppe.svg" width="20" />
 
-<img src="./media/flame-uploading.gif" height="200" />
+<img src="./media/flame-uploading.gif"/>
 
 <details>
 <summary>&#x1f4c8; GitHub Stats</summary>
