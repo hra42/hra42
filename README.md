@@ -13,7 +13,7 @@
 ## I work on...
 - Golang <img src="./media/icons8-golang.svg" width="20" />
 - Python <img src="./media/icons8-python.gif" width="20" />
-- Swift ![swift](https://github.com/user-attachments/assets/160086f3-5667-46d7-8063-880522a0e799)
+- Swift <img src="./media/swift.png" width="20" />
 - Bash <img src="./media/icons8-konsole.svg" width="20" />
 - Container <img src="./media/icons8-cloud.svg" width="20" />
 - Ansible <img src="./media/icons8-ansible.svg" width="20" />
