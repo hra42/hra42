@@ -1,14 +1,12 @@
 # Welcome to my GitHub Profile
-<img src="./media\business-3d-happy-robot-assistant-waving-hello.png"/>
-<img src="./media/flame-sign-in.gif"/>
-
-[![Pieces Certified Developer](https://media.badgr.com/uploads/badges/badge-Ic7Lq5haTt-ea3pLJzYXFQ.png?versionId=bqGIzk8Q95mwWEeUaPGRZB2_mihpeoYT)](https://badgr.com/public/badges/Ic7Lq5haTt-ea3pLJzYXFQ)
+<img src="./media/business-3d-happy-robot-assistant-waving-hello.png" width="200"/>
+<img src="./media/flame-sign-in.gif" width="200"/>
 
 # Who am I?
 - My Name is Henry Rausch
 - I work as an IT-Operator in Germany
 
-<img src="./media/flame-no-connection.gif"/>
+<img src="./media/flame-no-connection.gif" width="200"/>
 
 ## I work on...
 - Golang <img src="./media/icons8-golang.svg" width="20" />
@@ -23,7 +21,24 @@
 - Raspberry Pi <img src="./media/icons8-raspberry-pi.svg" width="20" />
 - Linux Server <img src="./media/server-gruppe.svg" width="20" />
 
-<img src="./media/flame-uploading.gif"/>
+<img src="./media/flame-uploading.gif" width="200"/>
+
+<details>
+  <summary>
+    My Certifications 🚀
+  </summary>
+  <a href="https://badgr.com/public/badges/Ic7Lq5haTt-ea3pLJzYXFQ">
+  <img src="https://media.badgr.com/uploads/badges/badge-Ic7Lq5haTt-ea3pLJzYXFQ.png?versionId=bqGIzk8Q95mwWEeUaPGRZB2_mihpeoYT" width="200" alt="Pieces Certified Developer">
+</a>
+</br>
+<a href="https://www.credly.com/badges/460383b1-47ab-4cf8-b098-9f658b4e63a0/public_url">
+  <img src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="200" alt="Credly Badge">
+</a>
+</br>
+<a href="https://www.cloudskillsboost.google/public_profiles/2f9004d7-55ae-4577-ab9c-301b6aab1f5b/badges/13469825?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">
+  <img src="https://cdn.qwiklabs.com/RCDAGOl%2B9XM24%2B69hGJTBOZmwpykkGAxt2uNIycpC4s%3D" width="200" alt="Qwiklabs Badge">
+</a>
+</details>
 
 <details>
 <summary>&#x1f4c8; GitHub Stats</summary>
